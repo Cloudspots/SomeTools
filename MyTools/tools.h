@@ -1,0 +1,11 @@
+#pragma once
+#include "bigint.h"
+#include "calculate.h"
+#include "expre.h"
+#include "FFT.h"
+#include "fraction.h"
+#include "huffmancode.h"
+#include "lglrcz.h"
+#include "mathfun.h"
+#include "power.h"
+#include "triangle.h"
